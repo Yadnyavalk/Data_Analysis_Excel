@@ -7,14 +7,15 @@ The Blinkit platform aims to analyze annual sales performance to understand cust
 
 
 ## Questions (KPIs):
--What is the overall sales performance and total revenue for Blinkit in 2022?
--Which outlet type generates the highest sales?
--What is the revenue contribution of different product categories?
--How do low-fat and regular-fat products contribute to the overall sales?
--Which outlet size (small, medium, or large) performs the best in terms of sales?
--What is the trend in outlet establishment sales over the years?
--What are the highest-performing product categories?
--How does store-wise sales distribution vary across outlet types?
--Which areas need strategic improvement based on sales performance?
+- What is the overall sales performance and total revenue for Blinkit in 2022?
+- Which outlet type generates the highest sales?
+- What is the revenue contribution of different product categories?
+- How do low-fat and regular-fat products contribute to the overall sales?
+- Which outlet size (small, medium, or large) performs the best in terms of sales?
+- What is the trend in outlet establishment sales over the years?
+- What are the highest-performing product categories?
+- How does store-wise sales distribution vary across outlet types?
+- Which areas need strategic improvement based on sales performance?
 
-
+## Dashboard Interaction
+- [Dashboard](https://github.com/Yadnyavalk/Data_Analysis_Excel/blob/main/Screenshot%202024-12-28%20151551.png)
