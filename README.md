@@ -23,6 +23,11 @@ The Blinkit platform aims to analyze annual sales performance to understand cust
 ## Dashboard
 - ![Screenshot 2024-12-28 151551](https://github.com/user-attachments/assets/e4acad3c-f661-4d02-82dc-14da7ee61abb)
 
+## Process
+- Verified the dataset for missing values, inconsistencies, and anomalies, and addressed them to ensure data accuracy.
+- Ensured data consistency by standardizing data types, formats, and values for a clean and reliable dataset.
+- Created relevant pivot tables to answer key questions and extract actionable insights.
+- Consolidated all pivot tables into a single interactive dashboard and added slicers to make it dynamic and user-friendly.
 
 ## Project Insights
 - Low-fat products contribute significantly to total sales, outperforming regular-fat products by approximately 80%.
