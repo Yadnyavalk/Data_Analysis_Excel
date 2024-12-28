@@ -1,11 +1,11 @@
-#Blinkit Sales Analysis (Interactive Dashboard Creation using MS Excel)
-##Project Objective
+# Blinkit Sales Analysis (Interactive Dashboard Creation using MS Excel)
+## Project Objective
 The Blinkit platform aims to analyze annual sales performance to understand customer preferences, identify top-performing outlets and product categories, and make data-driven decisions to enhance sales and operations.
 
-##Dataset Used
+## Dataset Used
 - <a href-"https://github.com/Yadnyavalk/Data_Analysis_Excel/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
-##Questions (KPIs):
+## Questions (KPIs):
 -What is the overall sales performance and total revenue for Blinkit in 2022?
 -Which outlet type generates the highest sales?
 -What is the revenue contribution of different product categories?
