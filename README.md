@@ -3,7 +3,8 @@
 The Blinkit platform aims to analyze annual sales performance to understand customer preferences, identify top-performing outlets and product categories, and make data-driven decisions to enhance sales and operations.
 
 ## Dataset Used
-- <a href-"https://github.com/Yadnyavalk/Data_Analysis_Excel/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+-  [Dataset](https://github.com/Yadnyavalk/Data_Analysis_Excel/blob/main/BlinkIT%20Grocery%20Data.xlsx)
+
 
 ## Questions (KPIs):
 -What is the overall sales performance and total revenue for Blinkit in 2022?
